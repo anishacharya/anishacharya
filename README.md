@@ -8,7 +8,7 @@ I am currently a PhD student at UT Austin advised by Prof Inderjit Dhillon and P
 <a href="https://www.instagram.com/anishacharya91"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>.  
 
 
-------------------------   
+<!-- ------------------------   
 
 <center>
   <table>
@@ -21,7 +21,7 @@ I am currently a PhD student at UT Austin advised by Prof Inderjit Dhillon and P
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anishacharya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishacharya&count_private=true&show_icons=true&theme=github_dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishacharya&label=Profile%20views&color=0e75b6&style=flat" alt="anishacharya" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishacharya&label=Profile%20views&color=0e75b6&style=flat" alt="anishacharya" /> </p>> -->
 
 
 
