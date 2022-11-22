@@ -9,19 +9,14 @@ PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghav
 
 
 ------------------------   
-
 <center>
   <table>
     <tr>
-        <td><img width="500px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=anishacharya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" /></td>
+        <td><img width="500px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=anishacharya&theme=dark&hide_border=true&border_radius=6.7&date_format=j%20M%5B%20Y%5D" /></td>
         <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=anishacharya&count_private=true&show_icons=true&theme=github_dark" /></td>
     </tr>   
   </table>
 </center>
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anishacharya&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishacharya&count_private=true&show_icons=true&theme=github_dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishacharya&label=Profile%20views&color=0e75b6&style=flat" alt="anishacharya" /> </p>>
 
 
 
