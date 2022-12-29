@@ -1,5 +1,5 @@
 ### Hi, I'm Anish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='350'/>
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
 PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghavi. 
 
@@ -12,7 +12,7 @@ PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghav
 <center>
   <table>
     <tr>
-        <td><img width="500px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=anishacharya&theme=dark&hide_border=true&border_radius=6.7&date_format=j%20M%5B%20Y%5D" /></td>
+        <td><img width="750px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anishacharya&theme=dark&hide_border=true&border_radius=6.7&date_format=j%20M%5B%20Y%5D" /></td>
 <!--         <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=anishacharya&count_private=true&show_icons=true&theme=github_dark" /></td> -->
     </tr>   
   </table>
