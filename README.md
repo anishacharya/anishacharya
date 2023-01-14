@@ -12,7 +12,7 @@ PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghav
 <center>
   <table>
     <tr>
-        <td><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anishacharya&theme=dark&hide_border=true&border_radius=6.7&date_format=j%20M%5B%20Y%5D" /></td>
+        <td><img width="600px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anishacharya&theme=dark&hide_border=true&border_radius=6.7&date_format=j%20M%5B%20Y%5D" /></td>
 <!--         <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=anishacharya&count_private=true&show_icons=true&theme=github_dark" /></td> -->
     </tr>   
   </table>
