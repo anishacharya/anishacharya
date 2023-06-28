@@ -8,8 +8,7 @@ PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghav
 <!-- <a href="https://www.instagram.com/anishacharya91"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>.   -->
 
 
-<!-- 
-------------------------   
+
 <center>
   <table>
     <tr>
@@ -18,7 +17,6 @@ PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghav
     </tr>   
   </table>
 </center> 
--->
 
 
 
