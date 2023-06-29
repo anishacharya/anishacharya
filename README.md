@@ -1,5 +1,5 @@
 ### Hi, I'm Anish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='400'/>
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
 PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghavi. 
 
