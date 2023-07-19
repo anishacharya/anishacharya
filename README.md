@@ -12,8 +12,10 @@ PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghav
 
 <p align="left">
   <img src="images/skills/python.gif" width="100">
+  <img src="images/pytorch.gif" width="100">
   <img src="images/skills/tensorflow.gif" width="100">
   <img src="images/sklearn.gif" width="100">
+  
 </p>
 <!--
 <center>
