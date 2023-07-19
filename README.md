@@ -5,10 +5,17 @@ PhD student at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghav
 
 <a href="https://www.linkedin.com/in/anish-acharya-a98a9383/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=uBmgGMAAAAAJ&view_op=list_works&sortby=pubdate"><img align="left" src="https://img.shields.io/badge/Gooogle Scholar-1DA1F2?&style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-<!-- <a href="https://www.instagram.com/anishacharya91"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>.   -->
+<a href="https://www.instagram.com/anishacharya91"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>.  
 
 <p align="center">
-  <img src="images/skills/python.gif" width="100"><img src="images/skills/tensorflow.gif" width="100"><img src="images/skills/vscode.gif" width="100"><img src="images/skills/keras.gif" width="100"><img src="images/skills/github.gif" width="100"><img src="images/skills/anaconda.gif" width="100"><img src="images/sklearn.gif" width="100"><img src="images/opencv.gif" width="100">
+  <img src="images/skills/python.gif" width="100">
+  <img src="images/skills/tensorflow.gif" width="100">
+  <img src="images/skills/vscode.gif" width="100">
+  <img src="images/skills/keras.gif" width="100">
+  <img src="images/skills/github.gif" width="100">
+  <img src="images/skills/anaconda.gif" width="100">
+  <img src="images/sklearn.gif" width="100">
+  <img src="images/opencv.gif" width="100">
 
 <!--
 <center>
