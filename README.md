@@ -2,9 +2,10 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 Doctoral candidate at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghavi. 
-
+<!--
 <a href="https://www.linkedin.com/in/anish-acharya-a98a9383/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=uBmgGMAAAAAJ&view_op=list_works&sortby=pubdate"><img align="left" src="https://img.shields.io/badge/Gooogle Scholar-1DA1F2?&style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+--> 
 <br/><br/>
 <p align="left">
   <img src="images/skills/python.gif" width="100">
