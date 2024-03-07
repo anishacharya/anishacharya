@@ -3,8 +3,6 @@
 
 Doctoral candidate at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghavi. 
 
-I am in the Job Market 2024 ! 
-
 <!--
 <a href="https://www.linkedin.com/in/anish-acharya-a98a9383/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 --> 
