@@ -1,7 +1,7 @@
 ### Hi, I'm Anish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-Doctoral candidate at UT Austin advised by Prof Inderjit Dhillon and Prof Sujay Sanghavi. 
+Senior Research Scientist, Amazon.
 
 <!--
 <a href="https://www.linkedin.com/in/anish-acharya-a98a9383/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
